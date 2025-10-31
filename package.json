@@ -2,7 +2,7 @@
   "name": "sai-systems-solutions",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://balraj111.github.io/saisystemsolutions/",
+  "homepage": "https://www.saisystemsolutions.co.uk/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
